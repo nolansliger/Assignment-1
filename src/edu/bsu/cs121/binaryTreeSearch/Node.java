@@ -110,3 +110,6 @@ public class TreeNode <T> {
 		   return String.format("(%s %s %s)", leftResult,element.toString(),rightResult);
 	   }
 }//close Node class
+
+//All other sections that implement or use functions, classes, etc., from this class will have to change with this one.  This includes 
+//items that were renamed, code that was shortened/simplified.  A partial review of some of the overall project would probably be required.
